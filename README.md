@@ -17,7 +17,7 @@
 
 + 业务架构
 
-  <img src="Image/cfd-java整体架构图.png" style="zoom:40%;" />
+  <img src="./Image/cfd-java整体架构图.png" style="zoom:40%;" />
 
 + 项目截图
 
