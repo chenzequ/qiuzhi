@@ -19,7 +19,7 @@
 
 + 业务架构
 
-  <img src="./Image/cfd-java整体架构图.png" style="zoom:40%;" />
+  <img src="Image/cfd-java整体架构图.png" style="zoom:40%;" />
 
 + 项目截图
 
@@ -27,13 +27,13 @@
 
 <img src="Image/cfd 代码简图.png" style="zoom:50%;" />
 
-<img src="Image/WX20220809-183429@2x.png" style="zoom:60%;" />
+<img src="Image/WX20220809-183429@2x.png" style="zoom:40%;" />
 
-<img src="Image/1660041304601.jpg" style="zoom:25%;" />
+<img src="Image/1660041304601.jpg" style="zoom:20%;" />
 
-<img src="Image/1660041190558.jpg" style="zoom:50%;" />
+<img src="Image/1660041190558.jpg" style="zoom:40%;" />
 
-<img src="Image/WX20220809-183526@2x.png" style="zoom:50%;" />
+<img src="Image/WX20220809-183526@2x.png" style="zoom:40%;" />
 
 + 参与相关开源
 
@@ -72,7 +72,7 @@
 
 + 技术架构
 
-  <img src="Image/SpringCloudAlibaba运维架构图.png" style="zoom:50%;" />
+  <img src="Image/SpringCloudAlibaba运维架构图.png" style="zoom:40%;" />
 
 + 业务设计(暂无)
 
@@ -86,7 +86,7 @@
 
   <table>
   	<tr>
-    	<td><img src="Image/vue_01.png" style="zoom:50%;" /></td>
+    	<td><img src="Image/vue_01.png" style="zoom:30%;" /></td>
       <td><img src="Image/vue_02.png" style="zoom:50%;" /></td>
     </tr>  
     <tr>
@@ -111,11 +111,11 @@
 
 + 组件演示
 
-<img src="./Image/db_1.png" style="zoom:50%;" />
+<img src="./Image/db_1.png" style="zoom:30%;" />
 
-<img src="Image/db_2.png" style="zoom:50%;" />
+<img src="Image/db_2.png" style="zoom:30%;" />
 
-<img src="Image/db_3.png" style="zoom:50%;" />
+<img src="Image/db_3.png" style="zoom:30%;" />
 
 ### 其他项目截图
 
@@ -123,7 +123,7 @@
 
 <img src="Image/WX20220801-144310@2x.png" style="zoom:50%;" />
 
-<img src="Image/1659336196402.jpg" style="zoom:50%;" />
+<img src="Image/1659336196402.jpg" style="zoom:40%;" />
 
 + 某汽车经销商CRM
 
@@ -137,11 +137,11 @@
   
 + 部分自定义UI组件(vue)
 
-<img src="Image/SQL条件选择器.png" style="zoom:50%;" />
+<img src="Image/SQL条件选择器.png" style="zoom:40%;" />
 
 + 某物流平台项目主流程初步分析图
 
-  <img src="Image/61660189549_.pic.jpg" style="zoom:50%;" />
+  <img src="Image/61660189549_.pic.jpg" style="zoom:40%;" />
 
 + 
 
