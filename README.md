@@ -72,7 +72,7 @@
 
 + 技术架构
 
-  <img src="image/SpringCloudAlibaba运维架构图.png" style="zoom:50%;" />
+  <img src="Image/SpringCloudAlibaba运维架构图.png" style="zoom:50%;" />
 
 + 业务设计(暂无)
 
