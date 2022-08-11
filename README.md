@@ -84,8 +84,13 @@
 
 > 数据库访问组件，与`Mybatis-Plus`作用相似
 
-+ 组件架构
 + 组件演示
+
+<img src="Image/db_1.png" style="zoom:50%;" />
+
+<img src="Image/db_2.png" style="zoom:50%;" />
+
+<img src="Image/db_3.png" style="zoom:50%;" />
 
 ### 其他项目截图
 
