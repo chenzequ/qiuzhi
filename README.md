@@ -86,7 +86,7 @@
 
 + 组件演示
 
-<img src="Image/db_1.png" style="zoom:50%;" />
+<img src="./Image/db_1.png" style="zoom:50%;" />
 
 <img src="Image/db_2.png" style="zoom:50%;" />
 
