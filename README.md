@@ -82,6 +82,29 @@
 
 <img src="Image/单服务结构.png" style="zoom:50%;" />
 
++ 前端标准页面截图
+
+  <table>
+  	<tr>
+    	<td><img src="Image/vue_01.png" style="zoom:50%;" /></td>
+      <td><img src="Image/vue_02.png" style="zoom:50%;" /></td>
+    </tr>  
+    <tr>
+        <td><img src="Image/vue_03.png" style="zoom:50%;" /></td>
+          <td><img src="Image/vue_04.png" style="zoom:50%;" /></td>
+    </tr>
+    <tr>
+        <td><img src="Image/vue_05.png" style="zoom:50%;" /></td>
+          <td><img src="Image/vue_06.png" style="zoom:50%;" /></td>
+    </tr>
+    <tr>
+        <td><img src="Image/vue_07.png" style="zoom:50%;" /></td>
+          <td><img src="Image/vue_08.png" style="zoom:50%;" /></td>
+    </tr>
+    </table>
+
+  
+
 ### Oasis-DB（开源）
 
 > 数据库访问组件，与`Mybatis-Plus`作用相似
